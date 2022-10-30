@@ -1,0 +1,10 @@
+.header__main-illustration {
+  max-height: 608px;
+  max-width: 765px;
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  z-index: 2;
+
+}
